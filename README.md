@@ -5,18 +5,18 @@
 # PiZà Delivery System Backend
 ![Node.js Version](https://img.shields.io/node/v/package)
 
-## Description
+## 🎇 Description
 
 This project is a food ordering system built with JavaScript. It includes features for managing food items, placing orders, and user authentication.
 
-## Installation
+## ⚒️ Installation
 
 To install the project, follow these steps:
 
 1. Clone the repository
 2. Run `npm install` to install the dependencies
 
-## Prerequisites
+## 🎆 Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -37,7 +37,7 @@ nodemailer@6.9.7
 nodemon@3.0.2
 ```
 
-## Structure
+## 🏗️ Structure
 
 The project has the following structure:
 
@@ -47,10 +47,12 @@ The project has the following structure:
 - `routes/`: Defines the application's routes.
 - `services/`: Contains services for tasks like sending emails and handling JWTs.
 
-## Usage
+## ▶️ Usage
 
 To start the server, run `npm start`.
 
-## Contributing
+The backend for this project can be found at [PiZà Delivery System Frontend](https://github.com/yudswin/piza-delivery-system-frontend).
+
+## 🍕 Contributing
 
 If you want to contribute to this project, please open an issue or a pull request.
